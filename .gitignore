@@ -1,0 +1,11 @@
+# Generated output
+digested/
+
+# Temporary caption downloads
+*.srt
+*.vtt
+.raw/
+
+# Python
+__pycache__/
+*.pyc
