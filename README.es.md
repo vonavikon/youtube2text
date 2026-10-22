@@ -8,7 +8,7 @@ Un skill de Claude Code que convierte un vídeo de YouTube en una transcripción
 
 - Descarga los subtítulos del vídeo con [yt-dlp](https://github.com/yt-dlp/yt-dlp): los manuales si existen, y si no, los generados automáticamente.
 - Limpia la transcripción: elimina los duplicados que produce la ventana deslizante de los subtítulos automáticos de YouTube, une el texto y lo redistribuye en párrafos.
-- Escribe la transcripción completa y un resumen (tesis, no paráfrasis) uno junto al otro.
+- Escribe la transcripción completa y un resumen (puntos clave, no paráfrasis) uno junto al otro.
 
 ## Por qué
 
