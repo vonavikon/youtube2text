@@ -1,5 +1,7 @@
 # youtube2text
 
+**EN** · [RU](README.ru.md) · [中文](README.zh.md) · [Español](README.es.md) · [Français](README.fr.md)
+
 A Claude Code skill that turns a YouTube video into a clean transcript and a structured conspectus of its key points.
 
 ## What it does
