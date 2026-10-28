@@ -1,6 +1,8 @@
 # youtube2text
 
 **EN** · [RU](README.ru.md) · [中文](README.zh.md) · [Español](README.es.md) · [Français](README.fr.md)
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F75_clean-brightgreen)](https://www.virustotal.com/gui/file/a31c0ee972ddd386b0ffeaa104d93269a91980ffe7de99fe1038691fbc5a33ff)
+
 
 A Claude Code skill that turns a YouTube video into a clean transcript and a structured conspectus of its key points.
 

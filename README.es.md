@@ -1,6 +1,8 @@
 # youtube2text
 
 [EN](README.md) · [RU](README.ru.md) · [中文](README.zh.md) · **Español** · [Français](README.fr.md)
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F75_clean-brightgreen)](https://www.virustotal.com/gui/file/a31c0ee972ddd386b0ffeaa104d93269a91980ffe7de99fe1038691fbc5a33ff)
+
 
 Un skill de Claude Code que convierte un vídeo de YouTube en una transcripción limpia y un resumen estructurado de sus puntos clave.
 

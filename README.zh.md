@@ -1,6 +1,8 @@
 # youtube2text
 
 [EN](README.md) · [RU](README.ru.md) · **中文** · [Español](README.es.md) · [Français](README.fr.md)
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F75_clean-brightgreen)](https://www.virustotal.com/gui/file/a31c0ee972ddd386b0ffeaa104d93269a91980ffe7de99fe1038691fbc5a33ff)
+
 
 一个 Claude Code 技能：把 YouTube 视频转成干净的逐字稿，并整理出结构化的要点摘要。
 
